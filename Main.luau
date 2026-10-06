@@ -8,6 +8,7 @@
 ------------------------------------------------------------------------------ 
 -- Big thanks to:
 -- * @Conikku - The original ConvertFromHumanoidDescription pull request.
+-- * @Xekran_n - HeadShapes assist.
 -- * Roblox Staff - Allowing me to put this module back on sale despite everything!
 ------------------------------------------------------------------------------ 
 
